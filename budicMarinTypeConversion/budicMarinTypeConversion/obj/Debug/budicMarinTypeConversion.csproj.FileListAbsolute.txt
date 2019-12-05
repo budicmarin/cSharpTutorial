@@ -1,0 +1,6 @@
+C:\Users\Marin\source\repos\budicMarinTypeConversion\budicMarinTypeConversion\bin\Debug\budicMarinTypeConversion.exe.config
+C:\Users\Marin\source\repos\budicMarinTypeConversion\budicMarinTypeConversion\bin\Debug\budicMarinTypeConversion.exe
+C:\Users\Marin\source\repos\budicMarinTypeConversion\budicMarinTypeConversion\bin\Debug\budicMarinTypeConversion.pdb
+C:\Users\Marin\source\repos\budicMarinTypeConversion\budicMarinTypeConversion\obj\Debug\budicMarinTypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\Marin\source\repos\budicMarinTypeConversion\budicMarinTypeConversion\obj\Debug\budicMarinTypeConversion.exe
+C:\Users\Marin\source\repos\budicMarinTypeConversion\budicMarinTypeConversion\obj\Debug\budicMarinTypeConversion.pdb

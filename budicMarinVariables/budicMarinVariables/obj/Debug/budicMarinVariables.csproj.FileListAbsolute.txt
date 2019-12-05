@@ -1,0 +1,7 @@
+C:\Users\Marin\source\repos\budicMarinVariables\budicMarinVariables\obj\Debug\budicMarinVariables.csprojAssemblyReference.cache
+C:\Users\Marin\source\repos\budicMarinVariables\budicMarinVariables\obj\Debug\budicMarinVariables.csproj.CoreCompileInputs.cache
+C:\Users\Marin\source\repos\budicMarinVariables\budicMarinVariables\bin\Debug\budicMarinVariables.exe.config
+C:\Users\Marin\source\repos\budicMarinVariables\budicMarinVariables\bin\Debug\budicMarinVariables.exe
+C:\Users\Marin\source\repos\budicMarinVariables\budicMarinVariables\bin\Debug\budicMarinVariables.pdb
+C:\Users\Marin\source\repos\budicMarinVariables\budicMarinVariables\obj\Debug\budicMarinVariables.exe
+C:\Users\Marin\source\repos\budicMarinVariables\budicMarinVariables\obj\Debug\budicMarinVariables.pdb

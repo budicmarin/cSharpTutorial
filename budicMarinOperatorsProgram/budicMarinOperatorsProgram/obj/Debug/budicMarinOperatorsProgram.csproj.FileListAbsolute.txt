@@ -1,0 +1,6 @@
+C:\Users\Marin\source\repos\budicMarinOperatorsProgram\budicMarinOperatorsProgram\bin\Debug\budicMarinOperatorsProgram.exe.config
+C:\Users\Marin\source\repos\budicMarinOperatorsProgram\budicMarinOperatorsProgram\bin\Debug\budicMarinOperatorsProgram.exe
+C:\Users\Marin\source\repos\budicMarinOperatorsProgram\budicMarinOperatorsProgram\bin\Debug\budicMarinOperatorsProgram.pdb
+C:\Users\Marin\source\repos\budicMarinOperatorsProgram\budicMarinOperatorsProgram\obj\Debug\budicMarinOperatorsProgram.csproj.CoreCompileInputs.cache
+C:\Users\Marin\source\repos\budicMarinOperatorsProgram\budicMarinOperatorsProgram\obj\Debug\budicMarinOperatorsProgram.exe
+C:\Users\Marin\source\repos\budicMarinOperatorsProgram\budicMarinOperatorsProgram\obj\Debug\budicMarinOperatorsProgram.pdb

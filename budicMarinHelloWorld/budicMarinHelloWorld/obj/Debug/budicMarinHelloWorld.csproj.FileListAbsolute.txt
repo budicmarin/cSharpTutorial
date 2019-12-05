@@ -1,0 +1,7 @@
+C:\Users\Marin\source\repos\budicMarinHelloWorld\budicMarinHelloWorld\bin\Debug\budicMarinHelloWorld.exe.config
+C:\Users\Marin\source\repos\budicMarinHelloWorld\budicMarinHelloWorld\bin\Debug\budicMarinHelloWorld.exe
+C:\Users\Marin\source\repos\budicMarinHelloWorld\budicMarinHelloWorld\bin\Debug\budicMarinHelloWorld.pdb
+C:\Users\Marin\source\repos\budicMarinHelloWorld\budicMarinHelloWorld\obj\Debug\budicMarinHelloWorld.csprojAssemblyReference.cache
+C:\Users\Marin\source\repos\budicMarinHelloWorld\budicMarinHelloWorld\obj\Debug\budicMarinHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Marin\source\repos\budicMarinHelloWorld\budicMarinHelloWorld\obj\Debug\budicMarinHelloWorld.exe
+C:\Users\Marin\source\repos\budicMarinHelloWorld\budicMarinHelloWorld\obj\Debug\budicMarinHelloWorld.pdb
